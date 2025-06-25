@@ -51,6 +51,7 @@ OCR has become a critical tool in document digitization, automation, and data ex
 
 ---
 
+
 ## Technologies Used
 
 | Tool         | Purpose                                          |
